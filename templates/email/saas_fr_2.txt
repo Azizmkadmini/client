@@ -1,0 +1,11 @@
+subject: {entreprise} — une question
+---
+Bonjour {prenom},
+
+Je cherchais des startups SaaS actives et je suis tombé sur {entreprise}.
+
+Je travaille sur des outils d'automatisation pour la prospection — le genre de choses qui libèrent du temps pour ce qui compte vraiment.
+
+Curieux de savoir si c'est quelque chose que vous avez déjà exploré de votre côté.
+
+— Mohamed Aziz Mkadmini

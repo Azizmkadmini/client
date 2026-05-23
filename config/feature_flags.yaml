@@ -1,0 +1,12 @@
+flags:
+  browser.grid.remote:
+    enabled: false
+    description: Playwright sur browser-grid distant
+  analytics.clickhouse:
+    enabled: false
+  content.ai.claude:
+    enabled: true
+  enterprise.sso:
+    enabled: false
+  content.publish.dry_run:
+    enabled: false

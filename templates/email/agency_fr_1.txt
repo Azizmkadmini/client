@@ -1,0 +1,11 @@
+subject: question rapide — {entreprise}
+---
+Bonjour {prenom},
+
+J'ai vu la page de {entreprise} en cherchant des agences qui font beaucoup de prospection client.
+
+Je travaille sur des outils qui aident à automatiser cette partie — la recherche de contacts, les relances, le premier message.
+
+Vous gérez encore ça manuellement aujourd'hui ?
+
+— Mohamed Aziz Mkadmini

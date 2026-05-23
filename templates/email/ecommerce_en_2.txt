@@ -1,0 +1,11 @@
+subject: {entreprise} — a quick question
+---
+Hi {prenom},
+
+I was looking at e-commerce stores investing in growth and came across {entreprise}.
+
+I build tools to automate lead tracking and follow-up — so your team can focus on what actually matters.
+
+Curious if this is something you've looked into already.
+
+— Mohamed Aziz Mkadmini

@@ -1,0 +1,56 @@
+# Profil SaaS complet — AI Acquisition OS
+# Usage: docker compose -f docker-compose.yml -f docker-compose.saas.yml up -d
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: aios
+      POSTGRES_PASSWORD: aios
+      POSTGRES_DB: aios
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    restart: unless-stopped
+
+  worker-content:
+    build: .
+    command: python -m workers.content_runner
+    env_file:
+      - .env
+    depends_on:
+      - redis
+    volumes:
+      - ./data:/app/data
+      - ./sessions:/app/sessions
+    restart: unless-stopped
+
+  worker-all:
+    build: .
+    command: python -m workers.run_all
+    env_file:
+      - .env
+    depends_on:
+      - redis
+    volumes:
+      - ./data:/app/data
+      - ./leads:/app/leads
+      - ./sessions:/app/sessions
+    restart: unless-stopped
+
+  web:
+    build:
+      context: ./apps/web
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      NEXT_PUBLIC_API_URL: http://api:8000
+    depends_on:
+      - api
+    profiles:
+      - frontend
+
+volumes:
+  pgdata:

@@ -1,0 +1,54 @@
+{
+  "$schema": "https://tokens.studio/schemas/0.2.0/schema.json",
+  "color": {
+    "bg": {
+      "base": { "value": "#020617", "type": "color" },
+      "elevated": { "value": "#0f172a", "type": "color" },
+      "subtle": { "value": "#1e293b", "type": "color" }
+    },
+    "border": {
+      "default": { "value": "#334155", "type": "color" }
+    },
+    "text": {
+      "primary": { "value": "#f8fafc", "type": "color" },
+      "secondary": { "value": "#94a3b8", "type": "color" },
+      "muted": { "value": "#64748b", "type": "color" }
+    },
+    "accent": {
+      "primary": { "value": "#059669", "type": "color" },
+      "hover": { "value": "#10b981", "type": "color" },
+      "muted": { "value": "#064e3b", "type": "color" },
+      "ops": { "value": "#6366f1", "type": "color" }
+    },
+    "danger": { "value": "#f87171", "type": "color" },
+    "warning": { "value": "#fbbf24", "type": "color" },
+    "info": { "value": "#38bdf8", "type": "color" },
+    "success": { "value": "#34d399", "type": "color" }
+  },
+  "font": {
+    "family": {
+      "sans": { "value": "Inter, system-ui, sans-serif", "type": "fontFamilies" },
+      "mono": { "value": "JetBrains Mono, monospace", "type": "fontFamilies" }
+    },
+    "size": {
+      "display": { "value": "36px", "type": "fontSizes" },
+      "h1": { "value": "28px", "type": "fontSizes" },
+      "h2": { "value": "22px", "type": "fontSizes" },
+      "body": { "value": "14px", "type": "fontSizes" },
+      "label": { "value": "12px", "type": "fontSizes" }
+    }
+  },
+  "spacing": {
+    "1": { "value": "4px", "type": "spacing" },
+    "2": { "value": "8px", "type": "spacing" },
+    "3": { "value": "12px", "type": "spacing" },
+    "4": { "value": "16px", "type": "spacing" },
+    "6": { "value": "24px", "type": "spacing" },
+    "8": { "value": "32px", "type": "spacing" }
+  },
+  "radius": {
+    "sm": { "value": "6px", "type": "borderRadius" },
+    "md": { "value": "8px", "type": "borderRadius" },
+    "lg": { "value": "12px", "type": "borderRadius" }
+  }
+}

@@ -1,0 +1,9 @@
+subject: {entreprise} — prospection automatisée ?
+---
+Bonjour {prenom},
+
+Est-ce que {entreprise} utilise des outils pour automatiser une partie de la prospection, ou c'est encore principalement manuel ?
+
+Je pose la question parce que je travaille justement sur ce sujet — aider les agences à gagner du temps sur cette partie sans changer leur façon de travailler.
+
+— Mohamed Aziz Mkadmini

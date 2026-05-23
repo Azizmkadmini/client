@@ -1,0 +1,11 @@
+subject: une question sur votre prospection
+---
+Bonjour {prenom},
+
+J'ai vu votre profil en cherchant des freelances actifs dans leur domaine.
+
+Je fais des outils pour automatiser la recherche de clients — le genre de travail répétitif qu'on fait souvent soi-même faute de mieux.
+
+Curieux de savoir si c'est quelque chose qui vous prend encore beaucoup de temps.
+
+— Mohamed Aziz Mkadmini

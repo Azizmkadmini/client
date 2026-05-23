@@ -1,0 +1,11 @@
+subject: {entreprise} — a quick question
+---
+Hi {prenom},
+
+I was looking at SaaS teams focused on growth and came across {entreprise}.
+
+I work on automation tools for prospecting — the kind of work that frees up time for what actually requires attention.
+
+Curious if that's something you've already explored on your end.
+
+— Mohamed Aziz Mkadmini

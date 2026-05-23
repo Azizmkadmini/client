@@ -1,0 +1,27 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.env
+*.lock
+data/
+logs/
+sessions/
+leads/_upload.csv
+leads/leads.csv
+bot/leads_queue.json
+compliance/opt_out.csv
+*.db
+*.lock
+.DS_Store
+
+# Next.js
+apps/web/node_modules/
+apps/web/.next/
+apps/web/.env.local
+
+# Packs commerciaux / audits par client (local uniquement, ne pas committer)
+docs/clients/*
+!docs/clients/README.md

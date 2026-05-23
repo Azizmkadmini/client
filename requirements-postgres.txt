@@ -1,0 +1,2 @@
+# Optionnel — Phase 3 PostgreSQL
+psycopg2-binary>=2.9.9

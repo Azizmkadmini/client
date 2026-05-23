@@ -1,0 +1,11 @@
+subject: {entreprise} — une question
+---
+Bonjour {prenom},
+
+Je cherchais des agences actives sur l'acquisition client et je suis tombé sur {entreprise}.
+
+Je construis des outils pour alléger la partie prospection — surtout les tâches répétitives qui prennent du temps sans vraiment demander de réflexion.
+
+Curieux de savoir si c'est quelque chose que votre équipe a déjà essayé d'optimiser.
+
+— Mohamed Aziz Mkadmini

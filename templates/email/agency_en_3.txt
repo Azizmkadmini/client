@@ -1,0 +1,9 @@
+subject: {entreprise} — automated prospecting?
+---
+Hi {prenom},
+
+Does {entreprise} use any tools to automate part of the prospecting workflow, or is it still mostly manual?
+
+I'm working on exactly this — helping agencies save time on that part without changing how they work.
+
+— Mohamed Aziz Mkadmini

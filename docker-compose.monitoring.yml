@@ -1,0 +1,19 @@
+# Monitoring optionnel — AI Acquisition OS
+# docker compose -f docker-compose.yml -f docker-compose.saas.yml -f docker-compose.monitoring.yml --profile monitoring up -d
+
+services:
+  loki:
+    image: grafana/loki:2.9.0
+    ports:
+      - "3100:3100"
+    profiles:
+      - monitoring
+
+  grafana:
+    image: grafana/grafana:10.4.0
+    ports:
+      - "3001:3000"
+    environment:
+      GF_SECURITY_ADMIN_PASSWORD: admin
+    profiles:
+      - monitoring

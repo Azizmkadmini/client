@@ -1,0 +1,11 @@
+subject: quick question — {entreprise}
+---
+Hi {prenom},
+
+I came across {entreprise} while looking at B2B service companies that do regular prospecting.
+
+I work on tools to automate that side — finding contacts, follow-ups, first messages.
+
+Still managing that manually today?
+
+— Mohamed Aziz Mkadmini

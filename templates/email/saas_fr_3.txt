@@ -1,0 +1,9 @@
+subject: {entreprise} — outreach automatisé ?
+---
+Bonjour {prenom},
+
+Est-ce que {entreprise} a déjà mis en place des outils pour automatiser la prospection, ou c'est encore en partie manuel ?
+
+Je pose la question parce que c'est exactement ce sur quoi je travaille — aider les équipes SaaS à déléguer cette partie.
+
+— Mohamed Aziz Mkadmini

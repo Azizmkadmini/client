@@ -1,0 +1,11 @@
+subject: quick question — {entreprise}
+---
+Hi {prenom},
+
+I came across {entreprise} while looking at online stores focused on client acquisition.
+
+I work on tools to automate lead follow-up and outreach — the kind of tasks that take time but don't need much thinking.
+
+Still handling that manually today?
+
+— Mohamed Aziz Mkadmini

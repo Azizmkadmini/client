@@ -1,0 +1,11 @@
+subject: question rapide — {entreprise}
+---
+Bonjour {prenom},
+
+Je suis tombé sur {entreprise} en cherchant des boutiques en ligne qui travaillent leur acquisition client.
+
+Je fais des outils pour automatiser la partie recherche et relance de leads — le genre de tâches qui prennent du temps mais pas vraiment de réflexion.
+
+Vous avez encore une partie de ça qui tourne manuellement ?
+
+— Mohamed Aziz Mkadmini

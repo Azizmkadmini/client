@@ -1,0 +1,11 @@
+---
+description: Conventions monorepo AI Acquisition OS
+alwaysApply: true
+---
+
+# AI Acquisition OS — monorepo
+
+- API FastAPI : `api/`, workers Redis : `workers/`, UI web : `apps/web/`, ops Streamlit : `dashboard/`
+- Docs prod : `docs/PRODUCTION-HARDENING-IMPLEMENTED.md`
+- Pas de réécriture totale ; patches ciblés, tests `pytest tests/`
+- Commits git uniquement si l'utilisateur le demande

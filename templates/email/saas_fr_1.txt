@@ -1,0 +1,11 @@
+subject: question rapide — {entreprise}
+---
+Bonjour {prenom},
+
+J'ai vu {entreprise} en cherchant des produits SaaS qui travaillent leur croissance.
+
+Je fais des outils pour automatiser la prospection — trouver les bons contacts, les qualifier, envoyer le premier message — sans que l'équipe ait à s'en occuper.
+
+Vous avez encore une partie de ça qui tourne manuellement ?
+
+— Mohamed Aziz Mkadmini

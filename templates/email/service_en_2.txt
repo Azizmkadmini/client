@@ -1,0 +1,11 @@
+subject: {entreprise} — a quick question
+---
+Hi {prenom},
+
+I was looking at B2B service providers active in business development and came across {entreprise}.
+
+I build tools to reduce time spent on prospecting — particularly the repetitive parts that don't need much thought.
+
+Curious if that's something your team has explored already.
+
+— Mohamed Aziz Mkadmini

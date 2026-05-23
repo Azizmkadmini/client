@@ -1,0 +1,11 @@
+subject: {entreprise} — une question
+---
+Bonjour {prenom},
+
+Je cherchais des prestataires B2B actifs sur leur développement commercial et je suis tombé sur {entreprise}.
+
+Je fais des outils pour alléger la partie prospection — surtout les tâches répétitives qui prennent du temps sans vraiment créer de valeur.
+
+Curieux de savoir si c'est un sujet sur lequel vous travaillez.
+
+— Mohamed Aziz Mkadmini

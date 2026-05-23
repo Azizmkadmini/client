@@ -1,0 +1,11 @@
+subject: {entreprise} — une question
+---
+Bonjour {prenom},
+
+J'ai croisé {entreprise} en cherchant des structures qui investissent sur leur développement commercial.
+
+Je fais des outils pour alléger la prospection — le genre de tâches répétitives qu'on fait encore souvent à la main.
+
+Curieux de savoir si c'est quelque chose que vous avez déjà exploré.
+
+— Mohamed Aziz Mkadmini

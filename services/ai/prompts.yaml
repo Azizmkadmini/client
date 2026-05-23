@@ -1,0 +1,14 @@
+version: "1.0"
+prompts:
+  content.hook:
+    template: |
+      Génère 5 hooks LinkedIn sur le thème: {topic}
+      Langue: {language}
+      Ton: {tone}
+  content.post:
+    template: |
+      Rédige un post LinkedIn format {format} sur: {topic}
+      Langue: {language}
+  outreach.intro:
+    template: |
+      Message outreach court pour {name} chez {company}

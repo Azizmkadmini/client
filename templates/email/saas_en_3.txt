@@ -1,0 +1,9 @@
+subject: {entreprise} — automated outreach?
+---
+Hi {prenom},
+
+Does {entreprise} use any tools to automate part of the prospecting workflow, or is it still mostly manual on your end?
+
+I'm working on exactly this — helping SaaS teams offload that part.
+
+— Mohamed Aziz Mkadmini

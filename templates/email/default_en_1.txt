@@ -1,0 +1,11 @@
+subject: quick question — {entreprise}
+---
+Hi {prenom},
+
+I came across {entreprise} while looking at companies investing in client acquisition.
+
+I work on tools to automate prospecting — the research, qualification, first contact part.
+
+Still handling any of that manually today?
+
+— Mohamed Aziz Mkadmini

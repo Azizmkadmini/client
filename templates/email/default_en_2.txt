@@ -1,0 +1,11 @@
+subject: {entreprise} — a quick question
+---
+Hi {prenom},
+
+I saw {entreprise} while looking at companies focused on business development.
+
+I build tools to take the manual work out of prospecting — the kind of repetitive tasks that still get done by hand more often than they should.
+
+Curious if that's something you've already looked into.
+
+— Mohamed Aziz Mkadmini

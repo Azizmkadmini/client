@@ -1,0 +1,11 @@
+subject: {entreprise} — prospection automatisée ?
+---
+Bonjour {prenom},
+
+Je cherchais des boutiques en ligne actives sur l'acquisition et j'ai croisé {entreprise}.
+
+Vous gérez encore votre suivi de leads manuellement, ou vous avez déjà des outils en place pour ça ?
+
+Je pose la question parce que c'est exactement ce sur quoi je travaille en ce moment.
+
+— Mohamed Aziz Mkadmini

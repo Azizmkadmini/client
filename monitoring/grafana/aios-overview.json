@@ -1,0 +1,12 @@
+{
+  "title": "AI Acquisition OS — Overview",
+  "panels": [
+    {"title": "API Request Rate", "type": "graph", "targets": [{"expr": "rate(http_requests_total[5m])"}]},
+    {"title": "API Latency p95", "type": "graph", "targets": [{"expr": "histogram_quantile(0.95, http_request_duration_seconds_bucket)"}]},
+    {"title": "Redis Queue Depth", "type": "stat", "targets": [{"expr": "redis_list_length{key=\"outreach:scraper:jobs\"}"}]},
+    {"title": "DLQ Size", "type": "stat", "targets": [{"expr": "redis_list_length{key=\"outreach:dead-letter\"}"}]},
+    {"title": "Publish Success Rate", "type": "gauge", "targets": [{"expr": "rate(browser_jobs_total{status=\"success\"}[1h]) / rate(browser_jobs_total[1h])"}]},
+    {"title": "AI Tokens / hour", "type": "graph", "targets": [{"expr": "increase(ai_tokens_total[1h])"}]}
+  ],
+  "schemaVersion": 38
+}

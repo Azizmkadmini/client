@@ -1,0 +1,39 @@
+# Enterprise stack — AI Acquisition OS
+# docker compose -f docker-compose.yml -f docker-compose.saas.yml -f docker-compose.enterprise.yml up -d
+
+services:
+  worker:
+    build:
+      context: .
+      dockerfile: Dockerfile.worker
+
+  browser-grid:
+    build: .
+    dockerfile: Dockerfile.worker
+    command: python -m browser_grid.agent
+    ports:
+      - "8090:8090"
+    env_file:
+      - .env
+    profiles:
+      - grid
+
+  outbox-relay:
+    build: .
+    command: python -m workers.outbox_relay
+    env_file:
+      - .env
+    depends_on:
+      - redis
+    profiles:
+      - enterprise
+
+  event-consumer:
+    build: .
+    command: python -m workers.event_consumer
+    env_file:
+      - .env
+    depends_on:
+      - redis
+    profiles:
+      - enterprise

@@ -1,0 +1,11 @@
+subject: question rapide — {entreprise}
+---
+Bonjour {prenom},
+
+Je suis tombé sur {entreprise} en cherchant des entreprises actives sur leur acquisition client.
+
+Je travaille sur des outils pour automatiser la prospection — la partie recherche, qualification, premier contact.
+
+Vous gérez encore une partie de ça manuellement aujourd'hui ?
+
+— Mohamed Aziz Mkadmini

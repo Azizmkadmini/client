@@ -1,0 +1,11 @@
+subject: {entreprise} — a quick question
+---
+Hi {prenom},
+
+I was looking at agencies focused on client acquisition and came across {entreprise}.
+
+I build tools to take some of the manual work out of prospecting — the repetitive parts that take time but don't really require thinking.
+
+Curious whether that's something your team has already explored.
+
+— Mohamed Aziz Mkadmini

@@ -1,0 +1,25 @@
+# Moteur central de rate limits (Phase 4) — surcharge par canal / tenant
+defaults:
+  linkedin:
+    daily_max: 25
+    burst_per_hour: 8
+  instagram:
+    daily_max: 40
+    burst_per_hour: 12
+  email:
+    daily_max: 75
+    burst_per_hour: 30
+  whatsapp:
+    daily_max: 20
+    burst_per_hour: 10
+  content_publish:
+    daily_max: 2
+    burst_per_hour: 2
+  api:
+    daily_max: 10000
+    burst_per_hour: 500
+
+# health_score < seuil → compte désactivé automatiquement
+account_health:
+  disable_below: 20
+  warn_below: 50

@@ -1,0 +1,11 @@
+subject: quick question — {entreprise}
+---
+Hi {prenom},
+
+I came across {entreprise} while looking at SaaS products working on growth.
+
+I build tools to automate prospecting — finding the right contacts, qualifying them, sending first messages — without the team having to manage it.
+
+Still handling any of that manually?
+
+— Mohamed Aziz Mkadmini

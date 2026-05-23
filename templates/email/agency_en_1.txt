@@ -1,0 +1,11 @@
+subject: quick question — {entreprise}
+---
+Hi {prenom},
+
+I came across {entreprise} while looking at agencies that do a lot of client prospecting.
+
+I work on tools that help automate that part — finding contacts, sending first messages, following up.
+
+Is that still something your team handles manually today?
+
+— Mohamed Aziz Mkadmini

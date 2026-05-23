@@ -1,0 +1,11 @@
+subject: {entreprise} — une question
+---
+Bonjour {prenom},
+
+J'ai vu {entreprise} en cherchant des e-commerçants qui investissent sur leur croissance.
+
+Je travaille sur des outils pour automatiser le suivi et la relance de prospects — pour que votre équipe s'occupe de ce qui a vraiment de la valeur.
+
+Est-ce que c'est un sujet sur lequel vous travaillez en ce moment ?
+
+— Mohamed Aziz Mkadmini
