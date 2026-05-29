@@ -24,7 +24,7 @@ from dashboard.services import (
 from dashboard.content_tab import render_content
 from dashboard.theme import DASHBOARD_CSS
 from leads.store import LeadStore
-from logs.logger import OutreachLogger
+from utils.outreach_logger import OutreachLogger
 from scraper.cli import ScraperRunResult
 from scraper.instagram_login import (
     instagram_password_login_configured,

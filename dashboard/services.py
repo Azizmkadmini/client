@@ -16,7 +16,7 @@ from config import settings
 from connector.logger import ConnectorLogger
 from connector.queue_manager import QueueManager
 from leads.store import LeadStore
-from logs.logger import OutreachLogger
+from utils.outreach_logger import OutreachLogger
 from scraper.cli import ScraperRunResult
 from scraper.writer import resolve_scraper_csv_path
 from utils.behavior import RateLimiter

@@ -7,7 +7,7 @@ from config import settings
 from connector.logger import ConnectorLogger
 from connector.queue_manager import QueueManager
 from leads.store import LeadStore
-from logs.logger import OutreachLogger
+from utils.outreach_logger import OutreachLogger
 from orchestrator.runner import Orchestrator, summarize_result
 
 

@@ -7,7 +7,7 @@ from typing import Any
 from config import settings
 from content.store import ContentStore
 from leads.store import LeadStore
-from logs.logger import OutreachLogger
+from utils.outreach_logger import OutreachLogger
 
 
 def acquisition_overview() -> dict[str, Any]:

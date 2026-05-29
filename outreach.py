@@ -116,7 +116,7 @@ def cmd_run(args: argparse.Namespace) -> None:
 
 def cmd_reply(args: argparse.Namespace) -> None:
     from leads.store import LeadStore
-    from logs.logger import OutreachLogger
+    from utils.outreach_logger import OutreachLogger
 
     store = LeadStore()
     logger = OutreachLogger()

@@ -9,7 +9,7 @@ from ai.generator import MessageGenerator
 from config import settings
 from leads.models import Lead
 from leads.store import LeadStore, next_stage
-from logs.logger import OutreachLogger
+from utils.outreach_logger import OutreachLogger
 from utils.behavior import HumanBehavior, RateLimiter
 from utils.browser_session import (
     close_session,

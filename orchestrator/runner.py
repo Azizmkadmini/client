@@ -14,7 +14,7 @@ from config import settings
 from connector.ingest import IngestResult, QueueIngestor
 from connector.pipeline import ConnectorPipeline, PipelineResult
 from leads.store import LeadStore
-from logs.logger import OutreachLogger
+from utils.outreach_logger import OutreachLogger
 from orchestrator.scraper import ScraperResult, run_scraper
 from utils.logging_config import configure_logging
 

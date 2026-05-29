@@ -155,7 +155,7 @@ def run_send(*, limit: int = 50, sync_cache: bool = True) -> dict:
     from bots.email import EmailBot
     from leads.store import LeadStore
     from ai.generator import MessageGenerator
-    from logs.logger import OutreachLogger
+    from utils.outreach_logger import OutreachLogger
 
     store     = LeadStore()
     generator = MessageGenerator()

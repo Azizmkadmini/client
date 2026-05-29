@@ -8,7 +8,7 @@ from email.utils import formataddr
 from config import settings
 from leads.models import Channel, Lead
 from leads.store import LeadStore, next_stage
-from logs.logger import OutreachLogger
+from utils.outreach_logger import OutreachLogger
 from ai.generator import MessageGenerator
 from utils.behavior import HumanBehavior, RateLimiter
 from utils.retry import retry_call
